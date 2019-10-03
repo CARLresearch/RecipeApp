@@ -1,6 +1,6 @@
 git add .
 
-git commit -m "third commit"
+git commit -m "last commit"
 
 
 git push
